@@ -15,7 +15,6 @@ public class BallHandler : MonoBehaviour
 
     [SerializeField] float detachDelay = .5f;
     [SerializeField] float respawnDelay = 2f;
-    [SerializeField] float destroyDelay = 3f;
 
     private bool isDragging;
 
